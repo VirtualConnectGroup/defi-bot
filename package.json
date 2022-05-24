@@ -30,7 +30,8 @@
     "web3-provider-engine": ""
   },
   "devDependencies": {
-    "request": "^2.81.0"
+    "request": "^2.81.0",
+    "truffle": "^5.5.13"
   },
   "repository": {
     "type": "git",
